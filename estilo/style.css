@@ -71,6 +71,19 @@ body {
     background-color: red;
 }
 
+section {
+    width: 100%;
+    margin-bottom: 22px;
+    margin-top: 5px;
+    font-size: 15.5px;
+    color: #303434ee;
+}
+
+section > select {
+    border: 1px solid #30343493;
+    border-radius: 5px;
+}
+
 .login_submit {
     height: 48px;
     width: 100%;
